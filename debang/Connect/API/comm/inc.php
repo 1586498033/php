@@ -1,0 +1,2 @@
+<?php die('forbidden'); ?>
+{"appid":"101415734","appkey":"d6aa78c83f80fe59b6bb62dc64400d1b","callback":"http://www.dianyinge.com/user/qq_login.html","scope":"get_user_info,get_info","errorReport":true,"storageType":"file","host":"localhost","user":"root","password":"root","database":"test"}
